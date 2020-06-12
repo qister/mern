@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "qister pass",
+    "mongoUri": "mongodb+srv://qister:1q2w3e4r@cluster0-slbsc.azure.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
